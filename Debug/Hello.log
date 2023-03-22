@@ -1,2 +1,5 @@
 ﻿  Hello.cpp
-  Hello.vcxproj -> C:\Users\User-1\Documents\Hello\Hello\Debug\Hello.exe
+C:\Users\User-1\Documents\GitHub\Learning-C-\Hello.cpp(24,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\User-1\Documents\GitHub\Learning-C-\Hello.cpp(44,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User-1\Documents\GitHub\Learning-C-\Hello.cpp(44,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Hello.vcxproj -> C:\Users\User-1\Documents\GitHub\Learning-C-\Debug\Hello.exe

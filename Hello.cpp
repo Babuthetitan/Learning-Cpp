@@ -9,18 +9,43 @@
 // cout= standard output stream that prints data to the (console out)
 // float= used to declare decimal type numbers
 // double= similar to float with more precision 
-//string= a list of characters,
+//string= a list of characters
+//functions= used to do actions.....return type,function name
 
 #include <iostream>
 
+int add(int a, int b)
+{
+    return a + b;
+}
+
+float subtract(int a, int b)
+{
+    return a - b;
+}
+
+float divide(float a, float b)
+{
+    return a / b;
+}
+
+int multiply(int a, int b)
+{
+    return a * b;
+}
+
 int main()
 {
-    std::string name = "Stephen Babu";
-    std::string position = "audio software engineer";
-    int a = 2;
-    int b = 10;
- 
-    std::cout << "Name:" << name << std::endl;
-    std::cout << "position:" << position << std::endl;
+    int a = 5;
+    int b = 2;
 
+    int answer = add(a, b);
+    float answer2 = subtract (a, b);
+    float answer3 = divide (a, b);
+    int answer4 = multiply ( a, b);
+
+    std::cout << answer << std::endl;
+    std::cout << answer2 << std::endl;
+    std::cout << answer3 << std::endl;
+    std::cout << answer4 << std::endl;
 }

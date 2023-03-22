@@ -1,1 +1,2 @@
 C:\Users\User-1\Documents\Hello\Hello\Debug\Hello.exe
+C:\Users\User-1\Documents\GitHub\Learning-C-\Debug\Hello.exe
