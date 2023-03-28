@@ -1,2 +1,2 @@
 # Learning-Cpp
-This is my repo where I am learning C++ and constantly growing. I thank God for the energy and resources
+This is my repo where I am learning C++ and constantly growing. The audio programmer youtube tutorials coming in handy
